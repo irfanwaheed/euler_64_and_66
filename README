@@ -1,0 +1,6 @@
+ghc euler_64.hs
+./euler64
+
+ghc euler_66.hs
+./euler66
+
